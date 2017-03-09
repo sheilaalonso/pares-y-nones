@@ -1,6 +1,6 @@
 ****Juego de pares y nones****
 Escenario: pantalla de juego pares y nones
-En principio el juego lo hacemnos con entradas y salidas por consola.
+En principio el juego lo hacemos con entradas y salidas por consola.
 2 jugadores
 El jugador 1 es nones
 El jugador 2 es pares
